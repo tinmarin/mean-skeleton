@@ -24,7 +24,7 @@
 
 #### 3. Now clone this repository and install dependencies
 
-    $ git clone git@github.com:tinmarin/mean-skeleton.git
+    $ git clone https://github.com/tinmarin/mean-skeleton.git
     $ cd mean-skeleton && npm install
     
 #### 4. Run gulp
