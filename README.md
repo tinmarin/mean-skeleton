@@ -31,4 +31,4 @@
     
     $ gulp
 
-#### 5. Enjoy iy!
+#### 5. Enjoy it!
